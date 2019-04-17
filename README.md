@@ -6,3 +6,5 @@ Nova demo de como editar via site. Vamos mudar mais alguma coisa aqui. na verdad
 
 ## edição local
 Estou na minha máquinha e não mais no site
+
+## Incrementei o readme
